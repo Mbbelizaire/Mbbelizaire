@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mbbelizaire
+- 👀 I’m interested in Data Analytics and Database Management 
+- 🌱 I’m currently learning more Python and MySQL to increase proficiency. 
+- 💞️ I’m looking to collaborate on Python Data Visualization projects
+- 📫 How to reach me Mbbelizaire21@gmail.com
